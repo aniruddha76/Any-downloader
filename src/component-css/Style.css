@@ -1,0 +1,37 @@
+.App{
+    padding-top: 15%;
+}
+
+.urlArea {
+    padding: 13px;
+    height: 23px;
+    width: 30%;
+    border: 1.5px solid #9b9b9b;
+    border-radius: 3px;
+    background-color: transparent;
+    font-size: 16px;
+}
+
+hr{
+    width: 10%;
+}
+
+.btn {
+    padding: 13px;
+    color: white;
+    height: 13%;
+    width: 32%;
+    background-color: #10a37f;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 16px;
+    }
+    
+    .btn:hover {
+        background-color: white;
+        color: #10a37f;
+        border: 1px solid;
+        border-color: #10a37f;
+        transition: 0.2s;
+    }
